@@ -44,3 +44,9 @@ SQL queries were written to:
 Sample query:
 ```sql
 SELECT SUM(Line_Total - Total_Unit_Cost) AS TotalProfit FROM Sales_Order;
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](Screenshots/dashboard.png)
