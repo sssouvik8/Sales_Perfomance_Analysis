@@ -33,6 +33,11 @@ This project delivers an end-to-end sales performance dashboard using Power BI a
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard](Screenshots/dashboard.png)
+
+
 ## 🧾 SQL Summary
 
 SQL queries were written to:
@@ -44,9 +49,3 @@ SQL queries were written to:
 Sample query:
 ```sql
 SELECT SUM(Line_Total - Total_Unit_Cost) AS TotalProfit FROM Sales_Order;
-
----
-
-## 📷 Dashboard Preview
-
-![Dashboard](Screenshots/dashboard.png)
